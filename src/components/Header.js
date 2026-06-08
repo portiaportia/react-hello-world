@@ -1,9 +1,11 @@
+import "./../css/Header.css";
+
 const Header = () => {
     return (
-        <>
-            <h1>Header</h1>
-        </>
-    )
-}
+        <header id="main-header">
+            <h1>Dogs</h1>
+        </header>
+    );
+};
 
 export default Header;
