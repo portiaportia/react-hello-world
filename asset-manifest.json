@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.e77cfa78.js",
-    "index.html": "/index.html",
-    "main.e77cfa78.js.map": "/static/js/main.e77cfa78.js.map"
+    "main.js": "/react-hello-world/static/js/main.e77cfa78.js",
+    "index.html": "/react-hello-world/index.html",
+    "main.e77cfa78.js.map": "/react-hello-world/static/js/main.e77cfa78.js.map"
   },
   "entrypoints": [
     "static/js/main.e77cfa78.js"
